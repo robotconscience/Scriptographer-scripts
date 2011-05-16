@@ -1,0 +1,7 @@
+Some things I've made for Sciptographer. Note: because these are mostly for my personal use, I don't do a lot of error checking, Illustrator version checking, etc.
+
+********************************************************
+	GRID 
+********************************************************
+take any element (image, group, shape, etc) and make an 
+evenly spaced grid of said element. optionally, randomizable
